@@ -1,0 +1,84 @@
+{
+"animals":
+[{
+  "id": 1,
+  "nama": "Cockatoo, red-breasted",
+  "category": "Red"
+}, {
+  "id": 2,
+  "nama": "Woodpecker, red-headed",
+  "category": "Orange"
+}, {
+  "id": 3,
+  "nama": "Grison",
+  "category": "Turquoise"
+}, {
+  "id": 4,
+  "nama": "Jackrabbit, white-tailed",
+  "category": "Crimson"
+}, {
+  "id": 5,
+  "nama": "Wildebeest, blue",
+  "category": "Maroon"
+}, {
+  "id": 6,
+  "nama": "Fox, silver-backed",
+  "category": "Khaki"
+}, {
+  "id": 7,
+  "nama": "Deer, spotted",
+  "category": "Goldenrod"
+}, {
+  "id": 8,
+  "nama": "North American river otter",
+  "category": "Puce"
+}, {
+  "id": 9,
+  "nama": "Ring dove",
+  "category": "Green"
+}, {
+  "id": 10,
+  "nama": "Small-clawed otter",
+  "category": "Mauv"
+}, {
+  "id": 11,
+  "nama": "Two-toed sloth",
+  "category": "Purple"
+}, {
+  "id": 12,
+  "nama": "Olive baboon",
+  "category": "Orange"
+}, {
+  "id": 13,
+  "nama": "Gazer, sun",
+  "category": "Mauv"
+}, {
+  "id": 14,
+  "nama": "Capuchin, white-fronted",
+  "category": "Green"
+}, {
+  "id": 15,
+  "nama": "Common shelduck",
+  "category": "Goldenrod"
+}, {
+  "id": 16,
+  "nama": "Southern brown bandicoot",
+  "category": "Mauv"
+}, {
+  "id": 17,
+  "nama": "Loris, slender",
+  "category": "Purple"
+}, {
+  "id": 18,
+  "nama": "Greater roadrunner",
+  "category": "Khaki"
+}, {
+  "id": 19,
+  "nama": "Hen, sage",
+  "category": "Blue"
+}, {
+  "id": 20,
+  "nama": "Burmese black mountain tortoise",
+  "category": "Pink"
+}]
+}
